@@ -4,60 +4,14 @@ using System.Data.Entity;
 
 namespace CodeFirst
 {
-    /*Completed Lecture 25
-     * Enabling Migations
+    /*Completed Lecture 27
+     *  Migrations: Modifying an Existing Class
+     *  1. Adding a new property
+     *  2. Modifying an exisiting property
+     *  3. Deleting an exisiting property
      *
-     *only 1 migration can run at a time
-     * to make track of the platform entity frame work shoudl have run the spacific (being used) migration.
-     *
-     * always work on small changes and small migrations.
-     * 
-     * instead of making 10 changes in your Model once make a small change create a migration bring database up to date and then repeat.
      */
-    public class Course
-    {
-        public int Id { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public CourseLevel Level { get; set; }
-        public float FullPrice { get; set; }
-        public Author Author { get; set; }
-        public IList<Tag> Tags { get; set; }
-    }
 
-    public class Author
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public IList<Course> Courses { get; set; }
-    }
-
-    public class Tag
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public IList<Course> Courses { get; set; }
-    }
-
-    public enum CourseLevel
-    {
-        Beginner = 1,
-        Intermediate = 2,
-        Advanced = 3
-    }
-
-    public class PlutoContext : DbContext
-    {
-        public DbSet<Course> Courses { get; set; }
-        public DbSet<Author> Authors { get; set; }
-        public DbSet<Tag> Tags { get; set; }
-
-        public PlutoContext()
-            : base("name=DefaultConnection")
-        {
-
-        }
-    }
 
     class Program
     {
