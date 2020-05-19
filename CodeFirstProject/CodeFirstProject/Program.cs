@@ -7,8 +7,12 @@ namespace CodeFirst
     /*Completed Lecture 25
      * Enabling Migations
      *
-     *In Code First Workflow we first change the model and then update the database using the migrations
+     *only 1 migration can run at a time
+     * to make track of the platform entity frame work shoudl have run the spacific (being used) migration.
      *
+     * always work on small changes and small migrations.
+     * 
+     * instead of making 10 changes in your Model once make a small change create a migration bring database up to date and then repeat.
      */
     public class Course
     {
