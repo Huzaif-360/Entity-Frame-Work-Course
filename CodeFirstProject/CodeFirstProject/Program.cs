@@ -4,8 +4,12 @@ using System.Data.Entity;
 
 namespace CodeFirst
 {
-    /*Completed Lecture 23
-     */ 
+    /*Completed Lecture 24
+     * Code First with an Existing Database
+     * 
+     * In such system we create a new Entity Model and we update the mode after completing the updates
+     * Code first using existing data base is also a great strategy than that of database first as it reduces the design and increase code tasks.
+     */
     public class Course
     {
         public int Id { get; set; }
