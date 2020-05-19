@@ -4,14 +4,13 @@ using System.Data.Entity;
 
 namespace CodeFirst
 {
-    /*Completed Lecture 29
-     *  Migrations: Recovering From Mistake
-     *  
-     *  If we have deleted something which we should not delete. we can not recover unless we create a new migration and readd it.
-     *  so if we will delete the deleted migration from the folder of migration we can get stucked and we may not proceed further.
-     *  so only add a new migration and move forward
-     *  
-     *
+    /* Lecture 30
+     * Migrations: Downgrading a Database
+     * 
+     * two ways of Downgrading the data base
+     * 
+     * 1. Start form version 2
+     * 2. start 1 setp back from version 2
      */
 
 
