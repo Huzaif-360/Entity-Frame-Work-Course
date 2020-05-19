@@ -1,0 +1,4 @@
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\CodeFirstProject\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csprojAssemblyReference.cache
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
