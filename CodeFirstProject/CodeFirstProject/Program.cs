@@ -11,6 +11,11 @@ namespace CodeFirst
      * 
      * 1. Start form version 2
      * 2. start 1 setp back from version 2
+     * 
+     * 
+     * 
+     * 
+     * update-database -TargitMigration:DeletePublishIdFromCourseColumn
      */
 
 
