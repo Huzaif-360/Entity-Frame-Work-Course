@@ -5,8 +5,11 @@ using System.Data.Entity;
 namespace CodeFirst
 {
     /* 
-     * Lecture 31
-     * Seeding Database
+     * Completed Section 4
+     * 
+     * 1. Commit code
+     * 2. Make small Migrations
+     * 3. Create another Migration to recover if we delete anything by mistake
      */
 
 
