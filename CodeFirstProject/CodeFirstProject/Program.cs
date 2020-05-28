@@ -43,6 +43,16 @@ namespace CodeFirst
      *  [key]
      *    [Column( order= 2)]
      *    public int orderID {get; ste;}
+     *    
+     *    
+     *  Nulls:
+     *  A column is nullable if property is nullable like in database
+     *  
+     *  [Required]
+     *  public string Name {get; set;}
+     *  
+     *  // Required does nt stop from assogning the null value but at runtime it throws exception error
+     *    
      */
 
 
