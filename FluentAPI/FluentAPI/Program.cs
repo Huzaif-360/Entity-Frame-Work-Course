@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Completed Lecture 40:
-//Fluent API
+//Completed Lecture 41:
+//Completed Demo: Fluent API (Advanced Configurations)
 namespace DataAnnotations
 {
     class Program
