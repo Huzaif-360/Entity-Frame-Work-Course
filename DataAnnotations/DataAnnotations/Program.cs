@@ -11,9 +11,8 @@ using System.Threading.Tasks;
  * Fluent API: Relationships
  *
  *  
- * Many to Many relationships
- * 
- * Tags............courses
+ *one to one/zero
+ * course .......... caption
  * 
  */
 
