@@ -11,12 +11,8 @@ using System.Threading.Tasks;
  * Fluent API: Relationships
  *
  *  
- * For Type 2 .................. Type 1:
- * we use 3 functions:
- * WithMany()
- * WithRequired()
- * WithOptional()
- *
+ * one to many:
+ *  Author ............ Courses
  * 
  */
 
