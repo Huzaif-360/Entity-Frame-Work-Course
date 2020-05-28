@@ -34,6 +34,15 @@ namespace CodeFirst
      *  Primary Key:
      *  A property Name ID or ClassName ID
      *  
+     *  
+     *  Composite Keys:
+     *  [key]
+     *  [Column( order= 1)]
+     *  public int orderID {get; ste;}
+     *  
+     *  [key]
+     *    [Column( order= 2)]
+     *    public int orderID {get; ste;}
      */
 
 
