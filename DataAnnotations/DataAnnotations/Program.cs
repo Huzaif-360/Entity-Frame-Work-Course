@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 
 
-/*Lecture 3
+/*Lecture 39
  * 
  * Fluent API: Relationships
  *
  *  
- * one to many:
- *  Author ............ Courses
+ * Many to Many relationships
+ * 
+ * Tags............courses
  * 
  */
 
