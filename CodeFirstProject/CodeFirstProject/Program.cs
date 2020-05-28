@@ -53,6 +53,11 @@ namespace CodeFirst
      *  
      *  // Required does nt stop from assogning the null value but at runtime it throws exception error
      *    
+     *    
+     *    Lengths of Strings:
+     *    MAX
+     *    [MaxLength(255)]
+     *    public string Name {get; set;}
      */
 
 
