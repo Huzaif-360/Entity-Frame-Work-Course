@@ -9,7 +9,16 @@ namespace CodeFirst
      * Overriding Code-First Conventions
      * 
      * Lecture 36 
-     * Data Annotation
+     * Data Annotations
+     * 
+     * Table Names:
+     * Plular form of class names
+     * 
+     * for example:
+     *  class name = course:
+     *  then table name sould be courses
+     *  
+     *  If name of the table is different that we should mention it seperately and if it is existing in another schema that we should write the name of the schema also.
      */
 
 
