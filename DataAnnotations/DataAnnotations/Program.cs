@@ -6,22 +6,18 @@ using System.Threading.Tasks;
 
 
 
-//Lecture 38
-//Fluent API
-/* in this case we also do changeings in the name of columns, properties, tables and so on.
+/*Lecture 3
  * 
- * Table Name
- * Column Name
- * Index
- * Primary Key
- * Foreign Key
- * Column Types
- * Order of Column
- * DataBase Generated
- * Length of Stringns
+ * Fluent API: Relationships
  * 
+ * Type 1.
+ * Type 2.
  * 
- * if a property is nullable and the framework marks that property as nullable in the database as well.
+ * Functions:
+ * HasMany()
+ * HasRequired()
+ * HasOptional()
+ *
  */
 
 namespace DataAnnotations
