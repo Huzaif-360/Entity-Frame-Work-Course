@@ -9,15 +9,15 @@ using System.Threading.Tasks;
 /*Lecture 3
  * 
  * Fluent API: Relationships
- * 
- * Type 1.
- * Type 2.
- * 
- * Functions:
+ *
+ *  
+ * For Type 1 .................. Type 2:
+ * we use 3 functions:
  * HasMany()
  * HasRequired()
  * HasOptional()
  *
+ * 
  */
 
 namespace DataAnnotations
