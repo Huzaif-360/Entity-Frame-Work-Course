@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 
 
-/*Lecture 39
+/*Lecture 40 
  * 
  * Fluent API: Relationships
  *
- *  
- *one to one/zero
- * course .......... caption
+ *  Demo for the Relationship:
+ *  Downloaded the suplimentory materials
  * 
  */
 
