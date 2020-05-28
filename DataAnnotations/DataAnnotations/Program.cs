@@ -11,11 +11,11 @@ using System.Threading.Tasks;
  * Fluent API: Relationships
  *
  *  
- * For Type 1 .................. Type 2:
+ * For Type 2 .................. Type 1:
  * we use 3 functions:
- * HasMany()
- * HasRequired()
- * HasOptional()
+ * WithMany()
+ * WithRequired()
+ * WithOptional()
  *
  * 
  */
