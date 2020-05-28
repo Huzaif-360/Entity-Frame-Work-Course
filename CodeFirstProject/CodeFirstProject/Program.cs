@@ -58,6 +58,12 @@ namespace CodeFirst
      *    MAX
      *    [MaxLength(255)]
      *    public string Name {get; set;}
+     *    
+     *    
+     *  Index:
+     *  [Index(IsUnique = true)]
+     *  public string Name {get; set;}
+     *    
      */
 
 
