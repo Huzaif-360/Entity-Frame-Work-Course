@@ -63,6 +63,14 @@ namespace CodeFirst
      *  Index:
      *  [Index(IsUnique = true)]
      *  public string Name {get; set;}
+     *  
+     *  Foreign Keys:
+     *  public class course
+     *  {
+     *      [ForeignKey("AutorId")]
+     *      public int AuthorId {get; set;}
+     *      public Author Author {get; set;}
+     *  }
      *    
      */
 
