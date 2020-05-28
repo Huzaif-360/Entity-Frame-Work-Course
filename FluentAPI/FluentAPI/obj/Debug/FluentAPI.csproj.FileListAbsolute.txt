@@ -1,0 +1,12 @@
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csprojAssemblyReference.cache
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
