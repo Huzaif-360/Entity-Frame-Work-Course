@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Completed section 5
-// Overriding Code-First Conventions:
-//Completed Demo: Fluent API (Advanced Configurations)
+/*Completed section 6 
+ * Querying Data using LINQ
+ * Completed Lecture 46
+ * Introduction to LINQ
+ */
 namespace DataAnnotations
 {
     class Program
