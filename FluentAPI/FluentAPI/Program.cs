@@ -45,6 +45,11 @@ using System.Threading.Tasks;
  *  LINK us for simple queries.
  *  FOR big or complex queries use other model.
  * 
+ * 
+ * ....................................................
+ *Lecture 47
+ * LINK In Action
+ *New Project Download:
  *  
  */
 namespace DataAnnotations
