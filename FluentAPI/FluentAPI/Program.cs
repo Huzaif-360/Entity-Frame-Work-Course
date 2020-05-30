@@ -33,10 +33,18 @@ using System.Threading.Tasks;
  *
  *
  *  ....................................................
- *  After LINK:
+ *  After LINQ:
  *  We use C# code and the model remains the same.
- *  Now with link we use the exact same model to create any data source at runtime depending on what the 
+ *  Now with linQ we use the exact same model to create any data source at runtime depending on what the 
  *  target data stories are queries will be automatically translated into a different language that is supported by that data store.
+ *  
+ *  ....................................................
+ *  Benifits of LINQ
+ *  No more SQL queries/ stored procedures.
+ *  Increased Productivity.
+ *  LINK us for simple queries.
+ *  FOR big or complex queries use other model.
+ * 
  *  
  */
 namespace DataAnnotations
