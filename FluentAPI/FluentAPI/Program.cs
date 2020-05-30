@@ -15,6 +15,13 @@ using System.Threading.Tasks;
  * 
  * List of objects can be queried by the LINQ
  * 
+ *LINQ:
+ * Using LINQ we can query:
+ * Objects
+ * XML
+ * Relational DataBases
+ * NoSQL DataBases
+ * 
  */
 namespace DataAnnotations
 {
