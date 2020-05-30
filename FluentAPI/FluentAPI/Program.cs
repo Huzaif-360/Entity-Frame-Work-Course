@@ -49,7 +49,12 @@ using System.Threading.Tasks;
  * ....................................................
  *Lecture 47
  * LINK In Action
- *New Project Download:
+ *|
+ * 
+ * Completed Lecture:
+ *  Data Quering using 
+ *  1. LINQ Syntex
+ *  2. Extension Method
  *  
  */
 namespace DataAnnotations

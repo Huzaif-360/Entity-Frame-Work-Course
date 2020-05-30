@@ -10,3 +10,5 @@ C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\Fluent
 C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
 C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
 C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.foo.resources
+C:\Users\Saifia computers\source\repos\Entity-Frame-Work-Course\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache
