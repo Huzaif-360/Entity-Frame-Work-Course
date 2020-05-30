@@ -22,6 +22,15 @@ using System.Threading.Tasks;
  * Relational DataBases
  * NoSQL DataBases
  * 
+ * 
+ * ....................................................
+ * WHat Before LINK:
+ * we had to use complete model to query objects.
+ * models:
+ *  1. SQL Server Model and we used T-SQL queries to work.
+ *  2. Oracle Server Model and we used PS/SQL queries to work.
+ *  3. XML Server Model and we used XQuery queries to work.
+ *  
  */
 namespace DataAnnotations
 {
