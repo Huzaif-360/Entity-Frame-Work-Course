@@ -7,7 +7,14 @@ using System.Threading.Tasks;
 /*Completed section 6 
  * Querying Data using LINQ
  * Completed Lecture 46
- * Introduction to LINQ
+ * 
+ * LINQ:
+ * What is LINQ
+ * Language Integrated Query:
+ * It is a model which is used to get the data using query.
+ * 
+ * List of objects can be queried by the LINQ
+ * 
  */
 namespace DataAnnotations
 {
