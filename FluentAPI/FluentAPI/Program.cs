@@ -30,6 +30,13 @@ using System.Threading.Tasks;
  *  1. SQL Server Model and we used T-SQL queries to work.
  *  2. Oracle Server Model and we used PS/SQL queries to work.
  *  3. XML Server Model and we used XQuery queries to work.
+ *
+ *
+ *  ....................................................
+ *  After LINK:
+ *  We use C# code and the model remains the same.
+ *  Now with link we use the exact same model to create any data source at runtime depending on what the 
+ *  target data stories are queries will be automatically translated into a different language that is supported by that data store.
  *  
  */
 namespace DataAnnotations
